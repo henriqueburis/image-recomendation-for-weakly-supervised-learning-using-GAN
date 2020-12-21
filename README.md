@@ -4,3 +4,4 @@ Image Recomendation for Weakly Supervised Learning Using GAN
 
 Features cifar100 SNGAN https://drive.google.com/file/d/1gFfK7lzOqzJgRlAV4U8tstpGvYMtv8TX/view?usp=sharing
 Features cifar10 SNGAN https://drive.google.com/file/d/1t_URo0NqnOJqQeR4kl-gpABUnhr_7Mw5/view?usp=sharing
+samples https://drive.google.com/drive/folders/1oQ-P1L6S6HgMY2rZi-QxVQDwYYj3Oh2m?usp=sharing
