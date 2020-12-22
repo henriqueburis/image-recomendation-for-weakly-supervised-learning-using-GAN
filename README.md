@@ -4,9 +4,8 @@
 
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 
-## Features!
+## Features
 
   - Features cifar100 SNGAN https://drive.google.com/file/d/1gFfK7lzOqzJgRlAV4U8tstpGvYMtv8TX/view?usp=sharing
   - Features cifar10 SNGAN https://drive.google.com/file/d/1t_URo0NqnOJqQeR4kl-gpABUnhr_7Mw5/view?usp=sharing
