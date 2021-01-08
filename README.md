@@ -7,10 +7,10 @@
 
 ## Features
 
-  - Features cifar100 SNGAN https://drive.google.com/file/d/1gFfK7lzOqzJgRlAV4U8tstpGvYMtv8TX/view?usp=sharing
-  - Features cifar10 SNGAN https://drive.google.com/file/d/1t_URo0NqnOJqQeR4kl-gpABUnhr_7Mw5/view?usp=sharing
-  - Features cifar100 original Resnet50 https://drive.google.com/file/d/1-09ebn0a-v-jTy4uS1MRBcl8BxyBKKwc/view?usp=sharing
-  - Features cifar10 original Resnet50 https://drive.google.com/file/d/1WZDPLqeRjC6IOAJSDV0JgriurMscBvWZ/view?usp=sharing
+  - Features cifar100 SNGAN ResNet50 https://drive.google.com/file/d/1gFfK7lzOqzJgRlAV4U8tstpGvYMtv8TX/view?usp=sharing
+  - Features cifar10 SNGAN ResNet50 https://drive.google.com/file/d/1t_URo0NqnOJqQeR4kl-gpABUnhr_7Mw5/view?usp=sharing
+  - Features cifar100 original ResNet50 https://drive.google.com/file/d/1-09ebn0a-v-jTy4uS1MRBcl8BxyBKKwc/view?usp=sharing
+  - Features cifar10 original ResNet50 https://drive.google.com/file/d/1WZDPLqeRjC6IOAJSDV0JgriurMscBvWZ/view?usp=sharing
 
 
 ## Samples
