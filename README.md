@@ -25,8 +25,8 @@
 ## Interpolation
 
 with 10 example             |  with 100 examples
-:-------------------------:|:-------------------------:
-![](https://github.com/henriqueburis/image-recomendation-for-weakly-supervised-learning-using-GAN/blob/main/automobile-automobile.gif?raw=true) |  ![](https://github.com/henriqueburis/image-recomendation-for-weakly-supervised-learning-using-GAN/blob/main/4yjslk.gif?raw=true)
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/henriqueburis/image-recomendation-for-weakly-supervised-learning-using-GAN/blob/main/airplane.gif) |  ![](https://github.com/henriqueburis/image-recomendation-for-weakly-supervised-learning-using-GAN/blob/main/bird.gif) |  ![](https://github.com/henriqueburis/image-recomendation-for-weakly-supervised-learning-using-GAN/blob/main/deer-dog.gif) |  ![](https://github.com/henriqueburis/image-recomendation-for-weakly-supervised-learning-using-GAN/blob/main/horse_ship.gif)
 
 ## Installation
 
