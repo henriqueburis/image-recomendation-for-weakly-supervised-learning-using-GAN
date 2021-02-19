@@ -3,6 +3,7 @@
 ![N|Solid](https://github.com/henriqueburis/image-recomendation-for-weakly-supervised-learning-using-GAN/blob/main/a1443bca-3401-44d5-9350-ef50c393f129.jpg?raw=true)
 
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
+[![Python3](https://img.shields.io/badge/python-3.6-green)](https://www.python.org/download/releases/3.0/)
 
 
 ## Features
