@@ -17,5 +17,13 @@
 
   - [samples cifar10 SNGAN 200k img](https://drive.google.com/file/d/1-8VoomUgJgKWv6PjcUESSx-IkNMuEHdD/view?usp=sharing)
   - [samples cifar100 SNGAN 200k img](https://drive.google.com/file/d/17jgEoXO7p1uCpE4ET_c_1EANKirGw_XJ/view?usp=sharing)
+  - [samples cifar10 SNGAN 50k correct_0 acc 80.46%  img](https://drive.google.com/file/d/1Iz9S5cAUyKvg-4OCPAGdPE9jflUq0EYs/view?usp=sharing)
+
+
+## Interpolation
+
+with 10 example             |  with 100 examples
+:-------------------------:|:-------------------------:
+![](https://github.com/henriqueburis/image-recomendation-for-weakly-supervised-learning-using-GAN/blob/main/automobile-automobile.gif?raw=true) |  ![](https://github.com/henriqueburis/image-recomendation-for-weakly-supervised-learning-using-GAN/blob/main/4yjslk.gif?raw=true)
 
 ## Installation
