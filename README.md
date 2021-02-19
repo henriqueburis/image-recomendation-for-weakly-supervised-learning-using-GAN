@@ -30,7 +30,13 @@ with 10 example             |  with 100 examples
 
 ## Installation
 
-## MSGAM - interpolated
+## MSGAM
+
+```sh
+generation of cifar10 examples, 5k img by classe
+python3 test_msgan_interpolation.py --num=100000  --resume ${00199.pth }
+```
+
 ```sh
 Interpolation
 python3 test_msgan_interpolation.py --num=100000  --resume ${00199.pth }
