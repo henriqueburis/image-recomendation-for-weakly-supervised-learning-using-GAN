@@ -24,7 +24,7 @@
 
 ## Interpolation
 
-with 10 example             |  with 100 examples
+airplane <--> airplane    |  bird <--> bird  | deer <--> dog | horse <--> ship
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/henriqueburis/image-recomendation-for-weakly-supervised-learning-using-GAN/blob/main/airplane.gif) |  ![](https://github.com/henriqueburis/image-recomendation-for-weakly-supervised-learning-using-GAN/blob/main/bird.gif) |  ![](https://github.com/henriqueburis/image-recomendation-for-weakly-supervised-learning-using-GAN/blob/main/deer-dog.gif) |  ![](https://github.com/henriqueburis/image-recomendation-for-weakly-supervised-learning-using-GAN/blob/main/horse_ship.gif)
 
