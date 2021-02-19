@@ -29,3 +29,9 @@ with 10 example             |  with 100 examples
 ![](https://github.com/henriqueburis/image-recomendation-for-weakly-supervised-learning-using-GAN/blob/main/automobile-automobile.gif?raw=true) |  ![](https://github.com/henriqueburis/image-recomendation-for-weakly-supervised-learning-using-GAN/blob/main/4yjslk.gif?raw=true)
 
 ## Installation
+
+## MSGAM - interpolated
+```sh
+Interpolation
+python3 test_msgan_interpolation.py --num=100000  --resume ${00199.pth }
+```
