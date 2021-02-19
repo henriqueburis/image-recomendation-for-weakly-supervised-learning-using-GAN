@@ -34,7 +34,7 @@ airplane <--> airplane    |  bird <--> bird  | deer <--> dog | horse <--> ship
 
 ```sh
 generation of cifar10 examples, 5k img by classe
-python3 test_msgan_interpolation.py --num=100000  --resume ${00199.pth }
+python3 test_save_msgan.py --num=100000  --resume ${00199.pth }
 ```
 
 ```sh
