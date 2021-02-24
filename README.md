@@ -40,5 +40,5 @@ python3 test_save_msgan.py --num=100000  --resume ${00199.pth }
 
 ```sh
 Interpolation
-python3 test_msgan_interpolation.py --num=100000  --resume ${00199.pth }
+python3 test_msgan_interpolation.py --num=100000 --class_num=100 --name="CIFAR100"  --resume ${cifar100_msgan_00199.pth} --cnnresume ${ckpt_cifar100.pth}
 ```
