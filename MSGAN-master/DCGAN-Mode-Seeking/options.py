@@ -47,7 +47,7 @@ class TestOptions(BaseOptions):
 
         # ouptput related
         self.parser.add_argument('--num', type=int, default=10, help='number of outputs per image')
-        self.parser.add_argument('--name', type=str, default='CIFAR10', help='folder name to save outputs')
+        self.parser.add_argument('--name', type=str, default='CIFAR100', help='folder name to save outputs')
         self.parser.add_argument('--result_dir', type=str, default='./results', help='path for saving result images and models')
 
         # model related
@@ -65,3 +65,32 @@ class TestOptions(BaseOptions):
         self.opt.dis_norm = 'None'
         self.opt.dis_spectral_norm = False
         return self.opt
+
+class MsganInterpolationOptions(BaseOptions):
+    def __init__(self):
+        super(MsganInterpolationOptions, self).__init__()
+        # data loader related
+        self.parser.add_argument('--phase', type=str, default='test', help='phase for dataloading')
+
+        # ouptput related
+        self.parser.add_argument('--num', type=int, default=10, help='number of outputs per image')
+        self.parser.add_argument('--name', type=str, default='CIFAR100', help='folder name to save outputs')
+        self.parser.add_argument('--result_dir', type=str, default='./results', help='path for saving result images and models')
+
+        # model related
+        self.parser.add_argument('--resume', type=str, required=True, help='specified the dir of saved models for resume the training')
+        self.parser.add_argument('--gpu', type=int, default=0, help='gpu')
+        #model related cnn
+        self.parser.add_argument('--cnnresume', type=str, required=True, help='specified the dir of saved models cnn for resume the classification')
+
+    def parse(self):
+        self.opt = self.parser.parse_args()
+        args = vars(self.opt)
+        print('\n--- load options ---')
+        for name, value in sorted(args.items()):
+            print('%s: %s' % (str(name), str(value)))
+        # set irrelevant options
+        self.opt.dis_scale = 3
+        self.opt.dis_norm = 'None'
+        self.opt.dis_spectral_norm = False
+        return self.opt        
