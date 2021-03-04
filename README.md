@@ -32,6 +32,7 @@ airplane <--> airplane    |  bird <--> bird  | deer <--> dog | horse <--> ship
 ## Installation
 
 ## MSGAM
+you can now run the msgan python scrypt with the following command:
 
 ```sh
 generation of cifar10 examples, 5k img by classe
