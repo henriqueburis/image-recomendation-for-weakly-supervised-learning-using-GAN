@@ -22,6 +22,8 @@
 ## Samples MSGAN
 
   - [samples cifar10 MSGAN 50k img correct_0 acc 80.46%  img](https://drive.google.com/file/d/1Iz9S5cAUyKvg-4OCPAGdPE9jflUq0EYs/view?usp=sharing)
+  
+  ![N|Solid](https://github.com/henriqueburis/image-recomendation-for-weakly-supervised-learning-using-GAN/blob/main/figure/kmeans_cifar10_0.png?raw=true?raw=true)
 
 ## Interpolation
 
